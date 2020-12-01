@@ -1,0 +1,285 @@
+body{background-color: black; font-family: 'Noto Sans KR', sans-serif;}
+p{color: white;}
+
+.find{animation: find;
+    animation-duration: 7s;
+    animation-delay: 3.8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes find
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.the1{animation: the1;
+    animation-duration: 4s;
+    animation-delay: 3.8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes the1
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.real{animation: real;
+    animation-duration: 5s;
+    animation-delay: 3.8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes real
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.thing{animation: thing;
+    animation-duration: 6s;
+    animation-delay: 3.8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes thing
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.in{animation: in;
+    animation-duration: 8s;
+    animation-delay: 3.8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes in
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.the2{animation: the2;
+    animation-duration: 6s;
+    animation-delay: 3.8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes the2
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.cloud{animation: cloud;
+    animation-duration: 7s;
+    animation-delay: 3.8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes cloud
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.k1{animation: k1;
+    animation-duration: 9s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes k1
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.k2{animation: k2;
+    animation-duration: 4s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes k2
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.k3{animation: k3;
+    animation-duration: 3s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes k3
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.k4{animation: k4;
+    animation-duration: 6s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes k4
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.k5{animation: k5;
+    animation-duration: 7s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes k5
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.k6{animation: k6;
+    animation-duration: 8s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes k6
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.k7{animation: k7;
+    animation-duration: 9s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes k7
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.line1{animation: line1;
+    animation-duration: 3s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes line1
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.line2{animation: line2;
+    animation-duration: 4s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes line2
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.line3{animation: line3;
+    animation-duration: 5s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes line3
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.line4{animation: line4;
+    animation-duration: 4s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;}
+
+@keyframes line4
+           {0%{opacity: 0}
+           35%{opacity: 1}
+           70%{opacity: 0}
+           100%{opacity: 1}}
+
+.fog{animation: fog;
+    animation-duration: 3.7s;
+    animation-iteration-count:1;
+    animation-direction: normal;
+    animation-fill-mode: forwards;
+    animation-delay: 0s;
+    animation-timing-function: ease-in-out;}
+
+@keyframes fog
+           {0%{opacity: 1}
+           100%{opacity: 0}}
+
+.kor{animation: kor;
+    animation-duration: 3s;
+    animation-iteration-count:1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 3.8s;
+    animation-timing-function: ease-in-out;}
+
+@keyframes kor
+           {0%{opacity: 0}
+           100%{opacity: 1}}
+
+.eng{animation: eng;
+    animation-duration: 3s;
+    animation-iteration-count:1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 2.8s;
+    animation-timing-function: ease-in-out;}
+
+@keyframes eng
+           {0%{opacity: 0}
+           100%{opacity: 1}}
+
+.engblur{animation: engblur;
+    animation-duration: 5s;
+    animation-iteration-count:1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 2.8s;
+    animation-timing-function: ease-in-out;}
+
+@keyframes engblur
+           {0%{opacity: 0}
+           40%{opacity: 1}
+           100%{opacity: 0}}
